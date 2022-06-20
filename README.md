@@ -13,8 +13,8 @@
 --- 
 ## 1. Sobre o projeto
 
-Layout desenvolvido com HTML e CSS, criado por mim. O objetivo do layout é leveza e delicadeza , ele utiliza a fonte do Google Montserrat - Regular e Bold.
-Ele tem apenas uma página, você é livre para adicionar e modificar.
+<p>Layout desenvolvido com HTML e CSS, criado por mim. O objetivo do layout é leveza e delicadeza , ele utiliza a fonte do Google Montserrat - Regular e Bold.
+Ele tem apenas uma página, você é livre para adicionar e modificar.<p> <br>
 
 ## 2. Ferramentas utilizadas
 
